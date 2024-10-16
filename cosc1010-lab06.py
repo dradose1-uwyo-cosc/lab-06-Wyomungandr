@@ -1,8 +1,8 @@
-# Your Name Here
+# Andrew Sharum
 # UWYO COSC 1010
-# Submission Date
+# 15OCT24
 # Lab 06
-# Lab Section: 
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # your
 # comments
